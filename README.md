@@ -12,7 +12,7 @@
 ![Dhanush's github stats](https://github-readme-stats.vercel.app/api?username=Dhanush896&show_icons=true&hide_border=true&theme=tokyonight)
 ---
 ### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![hi    bro](type=horizontal&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=Dhanush896&icon=0&color=0)](https://visitcount.itsvg.in)
 
